@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Adivinha</string>
+    <string name="botao_jogar">Jogar</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="Turma">Turma</string>
+    <string name="nome">Nome Completo:</string>
+    <string name="Desistir">Desistir</string>
+    <string name="Avancar">Avançar</string>
+    <string name="voltar">Voltar</string>
+    <string-array name="cursos">
+        <item>Ciência da Computação</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="disciplinas">
+        <item>LINGUAGENS FORMAIS E AUTÔMOTOS</item>
+        <item>DISPOSITIVOS MÓVEIS</item>
+        <item>INTELIGÊNCIA ARTIFICIAL</item>
+        <item>PSICOLOGIA EM SAÚDE</item>
+        <item>QUALIDADE DE SOFTWARE</item>
+    </string-array>
+</resources>
